@@ -1,0 +1,31 @@
+body {
+  background-color: aqua;
+  padding: auto;
+  margin: auto;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.form-control {
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 10px;
+  width: 100%;
+  margin: 5px 0;
+}
